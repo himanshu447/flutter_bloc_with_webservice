@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+fluttergeofencing/knoxpo/flutter_bloc_practice/BuildConfig.java
+ fluttergeofencing.knoxpo.flutter_bloc_practice.BuildConfig
